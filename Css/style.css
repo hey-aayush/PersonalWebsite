@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    background-color: #654062;
+    text-align: center;    
+    font-family: 'Padauk', sans-serif;
+}
+
+div{
+    padding: 25px;
+    margin: 0px;
+}
+h1{
+    color:black;
+    margin: 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5em;
+}
+
+span u:hover{
+    font-size: larger ;
+}
+
+h2{
+    color: black;
+    margin-top: 0px;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.Introduction{
+    padding: 30px;
+    padding-top: 100px;   
+    background-color:#654062;
+    position: relative;
+    font-weight: normal;
+}
+
+.bottom-cloud{
+    position: relative;
+    top: 10px;
+    right: 200px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 20%;
+    top:20px;
+}
+
+.Profile{
+    background-color: #ffd66b;
+    position: relative;
+}
+
+.Profile-content{     
+    display: inline-flex;
+}
+
+.hello-gif{
+    position: relative;
+   
+}
+
+.Profile-Dp{
+
+}
+
+.Profile-Info{
+    
+}
+.Profile h1{
+    margin-top: -10px;
+    font-family: 'Padauk', sans-serif;
+    font-size: 3em;
+}
+
+.Profile h2{
+    font-family: 'Padauk', sans-serif;
+    font-size: 2.5 em;
+}
+
+.Profile h3{
+    width: 35%;
+    margin: 0 auto;
+}
+
+.Profile a:hover{
+    font-style: normal;
+}
+
+.skills{
+    background-color: #ff9d72;
+}
+
+.skills ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    list-style-type: none;
+}
+
+.bottom-container{
+    background-color: #f4f4f4;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.contact-me{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    display: inline-flex;
+}
+
+.contact-img{
+    position: relative;
+    top: 40px;
+    left: -50px;
+}
+
+.footer{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-color: #ebe0e0;  
+}
